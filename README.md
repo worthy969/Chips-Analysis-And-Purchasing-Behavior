@@ -1,6 +1,6 @@
 # Chips-Analysis-And-Purchasing-Behavior
 This Analysis is focused on understanding the type of Customers who Purchases chips and their purchasing behavior within the region.
-![chips](img_pringles.jpg)
+[chips](img_pringles.jpg)
 ## PROJECT BRIEF
 I am part of Quantium's retail analytics team and have been approached by my client,the Category Manager for chips, who wants to better understand the types of customer who purchases Chips and their purchasing behaviour within the region.
   The insight from this analysis will feed into the supermarket's strategic plan for the chip category in the next half year.
